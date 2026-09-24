@@ -1,0 +1,14 @@
+.venv/
+.local/
+research/
+outputs/
+__pycache__/
+*.py[cod]
+.DS_Store
+*.db
+*.db-*
+*.sqlite*
+*.key
+keys*.json
+.env
+.env.*
